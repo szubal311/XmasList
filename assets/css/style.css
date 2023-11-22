@@ -9,7 +9,7 @@
 /* Header Style */
 #header{
     height: 100vh;
-    background-image: url("../assets/images/background.png");
+    background-image: url("../images/background.png");
     background-position: center;
     background-size: cover;
 }
